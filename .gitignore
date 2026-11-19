@@ -1,0 +1,7 @@
+# Byte-compiled Python
+__pycache__/
+*.py[cod]
+
+# Ledger lokal (data pribadi, jangan di-commit)
+ledger.json
+.budget/

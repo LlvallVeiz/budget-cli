@@ -1,0 +1,2 @@
+# budget-cli memakai Python standard library saja — tidak ada dependensi.
+# (File ini sengaja kosong; Python 3.12+ sudah cukup.)
